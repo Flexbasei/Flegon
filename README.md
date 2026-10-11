@@ -1,5 +1,7 @@
 ⚡ Flegon Framework
 
+Version : 1.2.0
+
 Flegon is a lightweight OTA firmware deployment and device-management framework for ESP8266 and ESP32.
 
 It provides:
